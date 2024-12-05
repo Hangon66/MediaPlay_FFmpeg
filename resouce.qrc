@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>resource/addBlue.png</file>
+        <file>resource/nextBlue.png</file>
+        <file>resource/pauseBlue.png</file>
+        <file>resource/playBlue.png</file>
+        <file>resource/prevBlue.png</file>
+        <file>resource/stopBlue.png</file>
+        <file>resource/icon.jpg</file>
+        <file>resource/volume.png</file>
+        <file>resource/list.png</file>
+        <file>resource/mute.png</file>
+    </qresource>
+</RCC>
